@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.svm import SVC
 import joblib
 
-from utils.feature_extraction import extract_features
+from speechdependent.utils.feature_extraction import extract_features
 
 X = []
 y = []

@@ -1,7 +1,7 @@
 import os
 import joblib
 from sklearn.svm import SVC
-from utils.feature_extraction import extract_features
+from speechdependent.utils.feature_extraction import extract_features
 
 X = []
 y = []

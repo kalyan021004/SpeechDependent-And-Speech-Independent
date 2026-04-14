@@ -1,4 +1,4 @@
-from recognize_speaker import recognize
+from speechdependent.recognize_speaker import recognize
 import os
 
 test_file1 = "test/yweweler.wav"

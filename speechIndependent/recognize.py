@@ -1,5 +1,5 @@
 import joblib
-from utils.feature_extraction import extract_features
+from speechdependent.utils.feature_extraction import extract_features
 
 model = joblib.load("speaker_model.pkl")
 
